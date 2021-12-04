@@ -9,7 +9,7 @@ class TodoContainer extends React.Component {
 	   },
 	   {
 	     id: 2,
-	     title: "Develop website and add content",
+	     title: "Develop website and add contents",
 	     completed: false
 	   },
 	   {
